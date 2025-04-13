@@ -2,8 +2,8 @@
 
 # 💫 About Me
 
-I am currently learning DSA and React.
-I am currently working on a Matrimony web project.  
+I am currently learning DSA and Machine Learning.
+I am currently working on a Matrimony web project and Some ML Models  
   
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sumit.kokad) 
@@ -16,6 +16,8 @@ I am currently working on a Matrimony web project.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=python&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/Data%20Scientist-%2300A896.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 
 # 📊 GitHub Stats
