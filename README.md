@@ -15,6 +15,8 @@ I am currently working on a Matrimony web project.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Sumitkokad&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> 
