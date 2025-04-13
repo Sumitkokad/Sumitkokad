@@ -16,7 +16,7 @@ I am currently working on a Matrimony web project and Some ML Models
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=python&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Scientist-%2300A896.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-%2300A896.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
 
